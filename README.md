@@ -13,8 +13,8 @@ Understanding what sells best and why is essential for grocery and supermarket b
 Through this project, practical solutions are provided to enable businesses to thrive in today's competitive market by understanding and leveraging data effectively.
 
 
-Goal: Predicting and improving sales of grocery and supermarket products with different variables. 
-Methods: Data Visualizations and Machine Learning (Decision Trees and Linear Regression)
+## Goal: Predicting and improving sales of grocery and supermarket products with different variables. 
+Methods: Data Visualizations and Machine Learning (Decision Trees and Linear Regression)<br>
 
 During this project, I cleaned the data, created and analyzed the data with visualizations, and created machine learning techniques to evaluate and create models for predicting the data. 
 
