@@ -14,7 +14,18 @@ Through this project, practical solutions are provided to enable businesses to t
 
 
 ## Goal: Predicting and improving sales of grocery and supermarket products with different variables. 
-Methods: Data Visualizations and Machine Learning (Decision Trees and Linear Regression)<br>
+
+* Predict sales trends for grocery and supermarket products.<br>
+
+* Use data visualizations and machine learning techniques like Decision Trees and Linear Regression to enhance sales forecasting accuracy and inform strategic decisions.<br>
+
+
+
+## Methods: Data Visualizations and Machine Learning (Decision Trees and Linear Regression)<br>
+
+* Analyze data with visualizations to understand sales patterns.<br>
+
+* Employ Decision Trees and Linear Regression for accurate sales predictions and strategic insights.<br>
 
 During this project, I cleaned the data, created and analyzed the data with visualizations, and created machine learning techniques to evaluate and create models for predicting the data. 
 
