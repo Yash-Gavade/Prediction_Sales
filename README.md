@@ -1,4 +1,18 @@
 # Predictions_of_Sales
+
+![image](https://github.com/Yash-Gavade/Prediction_Sales/assets/74112721/0945491c-4635-45bb-aacf-2e7db7a1b933)
+
+## Introduction:
+
+In the world of retail, predicting sales is crucial for grocery and supermarket businesses. This project uses data analysis to understand sales patterns and help businesses make smarter decisions.
+
+## Motivation:
+
+Understanding what sells best and why is essential for grocery and supermarket businesses to succeed. By analyzing data, valuable insights can be gained to improve sales strategies and meet customer needs effectively.
+
+Through this project, practical solutions are provided to enable businesses to thrive in today's competitive market by understanding and leveraging data effectively.
+
+
 Goal: Predicting and improving sales of grocery and supermarket products with different variables. 
 Methods: Data Visualizations and Machine Learning (Decision Trees and Linear Regression)
 
@@ -78,12 +92,3 @@ I performed Linear Regression, Simple Trees, Bagged Trees, and Random Forest mod
 
 Comparing the R2 scores and RMSE, I conclude the best model to use for this dataset is the Random Forests. I chose this because the R2 scores are comparable and highest for testing, while also having the lowest RMSE.
 
-# Recommendations
-My conclusions and suggestions would be as follows:
-* Focus on supermarkets vs. groceries
-* Proper visibility of items
-* Competitive prices for items and/or periodic sales
-* Focus on Tier 2 Outlets 
-  * Avoid Tier 1
-* Seafood is a profitable market 
-  * Dairy less so
